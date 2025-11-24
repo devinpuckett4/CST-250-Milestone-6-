@@ -11,7 +11,7 @@ Milestone 6
 
 [https://github.com/devinpuckett4/CST-250-Milestone-6/blob/main/Milestone6.md]
 
-https://www.loom.com/share/a6abb57fc8ed4807bd17dc8099bf42ba
+https://www.loom.com/share/ef05117809ff4b2a9acc392119092e2c
 
 
 

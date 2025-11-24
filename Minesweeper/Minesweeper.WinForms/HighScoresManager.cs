@@ -15,8 +15,7 @@ namespace Minesweeper.WinForms
             Path.Combine(Application.StartupPath, "highscores.json");
 
         public static List<GameStat> Scores { get; private set; } = new();
-
-        // === NEW: summary helpers for Milestone 6 ===
+        
         public static double AverageScore =>
             Scores.Count == 0 ? 0 : Scores.Average(s => s.Score);
 
@@ -80,7 +79,7 @@ namespace Minesweeper.WinForms
         {
             if (stat == null) return;
 
-            // Make sure we are up to date with what’s already on disk
+            // Make sure we are up to date with whatâ€™s already on disk
             Load();
 
             // Give it an Id if your GameStat has that property
